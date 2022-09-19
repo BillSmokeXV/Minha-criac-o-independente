@@ -24,6 +24,8 @@ body
 {
      font-family: 'montserrat', sans-serif;
      line-height: 160%;
+     flex-wrap: wrap;
+
 }
 
 header 
@@ -57,6 +59,7 @@ main
      display: flex;
      gap: 24px;
      margin-top: 32px;
+     flex-wrap: wrap;
 }
     
 section
