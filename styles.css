@@ -135,6 +135,10 @@ ul
      animation: Artebill 6s;
 }
 
+header
+{
+     display: flex;
+}
 header div 
 {
     animation: fromTop .7s .4s backwards;  
