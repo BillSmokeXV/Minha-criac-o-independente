@@ -137,6 +137,11 @@ header div
     animation: fromTop .7s .4s backwards;  
 }
 
+header div img
+{
+     background-position: center;
+}
+
 header div:hover 
 {
     transform: scale(1.1);
